@@ -1,3 +1,4 @@
 # Financial-Analysis--RE
 Financial Analysis for Solar System Installation
-<img width="1771" height="560" alt="image" src="https://github.com/user-attachments/assets/25f40c22-d5cd-4268-af23-dec31c26ebbe" />
+<img width="1589" height="661" alt="image" src="https://github.com/user-attachments/assets/63808467-58cc-4185-b0b0-2627ef459a37" />
+
